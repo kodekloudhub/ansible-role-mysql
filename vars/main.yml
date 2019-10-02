@@ -1,0 +1,7 @@
+---
+# vars file for kodekloud.mysqlmysqlservice: mysqld
+mysql_port: 3306
+dbname: ecomdb
+dbuser: ecomuser
+dbpassword: ecompassword
+
